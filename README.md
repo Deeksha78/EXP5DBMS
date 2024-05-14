@@ -1,6 +1,6 @@
 # EX.NO 5 Sub Queries and Views in SQL
 
-### DATE:
+### DATE:16-04-24
 #### REGISTER NUMBER: 212222040031
 
 ## AIM:
